@@ -31,3 +31,7 @@ dist/
 
 # Test data
 File_Manager_Test/
+
+# other files
+github_commit_file.txt
+LICENSE
