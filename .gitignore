@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+secrets/
+*token*.json
+*client_secret*.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.log
+*.tmp
+
+# Test data
+File_Manager_Test/
